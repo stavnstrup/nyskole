@@ -1,7 +1,7 @@
 ---
 title: Frems både
 layout: default
-----
+---
 
 Frem's sejlerskole råder over fire både. To gaffelriggere
 (Frem I og Frem III), en IF'er (Frem II) og en Spækhugger
