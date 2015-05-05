@@ -12,6 +12,6 @@ Følgende links refererere til andre skoleundersider
 * [Sejlkundskab](sejlkundskab.html)
 * [Navigation](navigation.html)
 * [Lærere](instruktoer/index.html)
-* [Skolens Både](skolenbaade.html)
+* [Skolens Både](skolebaade.html)
 
 	
