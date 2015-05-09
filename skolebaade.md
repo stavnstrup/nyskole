@@ -1,6 +1,6 @@
 ---
 title: Frems både
-layout: default
+layout: page
 ---
 
 Frem's sejlerskole råder over fire både. To gaffelriggere

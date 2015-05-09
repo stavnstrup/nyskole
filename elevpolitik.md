@@ -1,7 +1,7 @@
 ---
 title: Sejlerskolens forventninger til eleverne
 date: 26. november 2013 - Skoleudvalget
-layout: default
+layout: page
 ---
 
 

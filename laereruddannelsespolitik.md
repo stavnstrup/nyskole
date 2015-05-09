@@ -1,7 +1,7 @@
 ---
 title: Læreruddannelse og politik</title>
 date: 26. november 2013 - Skoleudvalget
-layout: default
+layout: page
 ---
 
 Alle lærere i sejlerskolen er frivillige. Siden 2003 har det været et

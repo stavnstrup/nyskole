@@ -1,5 +1,5 @@
 ---
 title: Praktisk Sejlads
-layout: default
+layout: page
 ---
 
