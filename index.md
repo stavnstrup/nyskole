@@ -8,13 +8,12 @@ layout: page
 Følgende links refererere til andre skoleundersider
 						  
 
-* [Praktisk Sejlads](praktisksejlads.html)
-* [Sejlkundskab](sejlkundskab.html) og [Sejlkundskab original](sejlkundskab-old.html) - Skal opdeles i en statisk/dynamisk side
-* [Navigation](navigation.html) og [Navigation original](navigation-old.html) - Skal opdeles i en statisk/dynamisk side
-* [Lærere](instruktoer/index.html) - Måske
+* [Kurser](kurser.html) - Dækker praktisksejlads, sejlkundskab og navigation. Kursus data fra nedenstående gamle sider genbruges til efteråret. 
+  
+    * [Sejlkundskab original](sejlkundskab-old.html)
+    * [Navigation original](navigation-old.html)
 * [Skolens Både](skolebaade.html)
 
-	
 * [Elevpolitik](elevpolitik.html)
 * [Læreruddannelsespolitik](laereruddannelsespolitik.html)
 
