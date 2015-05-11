@@ -3,15 +3,20 @@
 ---
 
 
-.draft {
-   width: 100%;
-   background-color: #ff908d;
-   color: black;
-   padding: 5px 0;
-   text-align: center;
-   font-size: 1.3em;
-}
 
 .banner {
   width: 100%;
+}
+
+
+.teaser {
+   h6 {
+     background-color: #000;
+     margin-top: 0;
+     padding: 4px;
+     padding-left: 10px;
+     color: white;
+     font-weight: bold;
+   }
+
 }
