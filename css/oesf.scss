@@ -3,20 +3,19 @@
 ---
 
 
-
 .banner {
   width: 100%;
 }
 
 
-.teaser {
+.teaserinfo {
+  border: 1px solid rgba(0,0,0,0.15);
+   padding: 1.5rem;
+   
    h6 {
-     background-color: #000;
-     margin-top: 0;
-     padding: 4px;
-     padding-left: 10px;
-     color: white;
-     font-weight: bold;
+     margin-top: 0px;
+     font-size: 165%;
+     letter-spacing: -1px;
+     text-align: center;
    }
-
 }
